@@ -1,0 +1,27 @@
+#register{
+    padding-top: 100px;
+    text-align: center;
+}
+
+#register-header{
+    font-size: xx-large;
+    color: black;
+    padding-bottom: 9px;
+}
+
+#register-form{
+    padding: 15px;
+}
+
+#username{
+    padding: 4px;
+    margin-right: 9px;
+}
+#password{
+    padding: 4px;
+}
+
+#submitBtn{
+    padding: 4px;
+    margin-left: 9px;
+}

@@ -1,0 +1,49 @@
+#activity-heading{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+#activity-container{
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   padding: 50px;
+   gap: 20px;
+   /*background-image: url("./gym.gif");*/
+   background-repeat: no-repeat;
+   background-size: 1425px 1100px;
+}
+
+#actAdd{
+    padding-top: 20px;
+    padding-bottom: 35px;
+}
+#createTitle{
+    padding-bottom: 4px;
+    color: blue;
+}
+#activity-btn{
+    padding: 4px;
+    margin-left: 9px;
+}
+#nameAct{
+    padding: 4px;
+    margin-right: 9px;
+}
+#goalAct{
+    padding: 4px;
+}
+#actCard{
+    margin:10px 10px;
+    background-color: lightblue;
+    border-radius: 8px;
+    padding: 6px;
+    border-style: solid;
+    box-shadow: 0px 15px 10px -15px #111;
+    border-color: lightblue;
+    
+}

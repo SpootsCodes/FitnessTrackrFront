@@ -1,0 +1,36 @@
+#routine-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    gap: 20px;
+    /*background-image: url("./gym.gif");*/
+    background-repeat: no-repeat;
+    background-size: 1425px 1100px;
+}
+
+#routine-head{
+    font-size: 64px;
+    margin: 30px;
+    text-decoration: underline;
+}
+
+#routineCard{
+    border: 4px;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 7px;
+    box-shadow: 0px 15px 10px -15px #111;
+}
+
+#routine-name{
+    margin:10px 10px;
+    background-color: lightblue;
+    border-radius: 8px;
+    padding: 6px;
+    border-style: solid;
+    box-shadow: 0px 15px 10px -15px #111;
+    border-color: lightblue;
+    text-align: center;
+}

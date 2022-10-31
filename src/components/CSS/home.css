@@ -1,0 +1,13 @@
+#welcome-container {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 89vh;
+  padding: 90px;
+  background-image: url("./gym.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  font-size: 30px;
+}
